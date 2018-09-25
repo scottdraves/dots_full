@@ -1,0 +1,53 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B43D056E5062A1840F25893CF124EAFC2C064CCC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "77852712-ef1d-11de-8684-7d64432d61a3++1556" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B43D056E5062A1840F25893CF124EAFC2C064CCC" : 0,
+    "84CE04532A76281E9D0C7B3A7EFCDC0E12CAC6FA" : 0,
+    "90E2F969A762FB62C413A0C44D1F334E6EC3F531" : 0,
+    "77852712-ef1d-11de-8684-7d64432d61a3++1556" : 0,
+    "F4CCB893AFADB97238A965FD2F28717F1CAAE613" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "197BE026-1C15-413E-A8C3-3D8442DB7614",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B43D056E5062A1840F25893CF124EAFC2C064CCC" : "dotsLocal\/",
+    "84CE04532A76281E9D0C7B3A7EFCDC0E12CAC6FA" : "..\/..\/addons\/ofxFft",
+    "90E2F969A762FB62C413A0C44D1F334E6EC3F531" : "..\/..\/..\/of_v0.9.0_osx_release\/addons\/ofxMidi",
+    "77852712-ef1d-11de-8684-7d64432d61a3++1556" : "dots\/src\/flam3\/",
+    "F4CCB893AFADB97238A965FD2F28717F1CAAE613" : "..\/..\/addons\/ofxSyphon"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "dotsLocal",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "dotsLocal.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/flam3.googlecode.com\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "77852712-ef1d-11de-8684-7d64432d61a3++1556"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kylemcdonald\/ofxFft",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "84CE04532A76281E9D0C7B3A7EFCDC0E12CAC6FA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danomatika\/ofxMidi",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90E2F969A762FB62C413A0C44D1F334E6EC3F531"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/scottdraves\/dots",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B43D056E5062A1840F25893CF124EAFC2C064CCC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/astellato\/ofxSyphon",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4CCB893AFADB97238A965FD2F28717F1CAAE613"
+    }
+  ]
+}
