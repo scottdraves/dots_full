@@ -296,7 +296,7 @@
 				71189AA51CB4AD1600D1015F /* ofxMidiTypes.h */,
 			);
 			name = src;
-			path = ../../../../of_v0.9.3_osx_release/addons/ofxMidi/src;
+			path = ../../../addons/ofxMidi/src;
 			sourceTree = "<group>";
 		};
 		71189A8A1CB4AD1600D1015F /* desktop */ = {
@@ -316,7 +316,7 @@
 				71189AB11CB4AD1600D1015F /* rtmidi */,
 			);
 			name = libs;
-			path = ../../../../of_v0.9.3_osx_release/addons/ofxMidi/libs;
+			path = ../../../addons/ofxMidi/libs;
 			sourceTree = "<group>";
 		};
 		71189AB11CB4AD1600D1015F /* rtmidi */ = {
