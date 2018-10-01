@@ -1,3 +1,11 @@
+[dots](http://scottdraves.com)
+
+to build on xcode 10, install sdk 10.11 from https://github.com/phracker/MacOSX-SDKs/releases
+then open and run with xcode: ./apps/myApps/dots/dotsLocal.xcodeproj.
+
+
+made with:
+
 [openFrameworks](http://openframeworks.cc/)
 ================
 
