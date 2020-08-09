@@ -1,9 +1,9 @@
-[dots](http://scottdraves.com)
+[dots](https://github.com/scottdraves/dots)
 
 to build on xcode 10, install sdk 10.11 from https://github.com/phracker/MacOSX-SDKs/releases
 then open and run with xcode: ./apps/myApps/dots/dotsLocal.xcodeproj.
 
-Licensed under the GPLv3: https://www.gnu.org/licenses/gpl-3.0.html
+Dots is licensed under the GPLv3: https://www.gnu.org/licenses/gpl-3.0.html
 
 made with:
 
